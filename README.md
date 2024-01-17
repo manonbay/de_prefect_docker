@@ -1,3 +1,3 @@
 # de_prefect_docker
 just to display my progress in de zoomcamp
-There are no comments as there is no goal of reproducibility here
+There is no comments on the code, beacause there is no goal of reproducibility here
